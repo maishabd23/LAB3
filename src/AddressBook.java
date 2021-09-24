@@ -30,6 +30,9 @@ public class AddressBook {
         //Lab3 Update 11
         BuddyInfo buddy2 = new BuddyInfo("Tommy", "Ottawa", "613");
         addressBook.addBuddy(buddy2);
+        
+        //Lab3 Update 17
+        addressBook.removeBuddy(buddy2);
     }
 
 }
