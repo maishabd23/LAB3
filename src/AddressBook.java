@@ -15,7 +15,7 @@ public class AddressBook {
         }
     }
 
-    //new method
+    //new method 3.5
     public ArrayList<BuddyInfo> getAddressList() {
         return addressList;
     }
